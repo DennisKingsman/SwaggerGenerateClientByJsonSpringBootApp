@@ -1,0 +1,7 @@
+server:
+  port: 8086
+
+doc:
+  profiles:
+    host:
+      uri: hhtp://http://localhost:8087
